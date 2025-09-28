@@ -1,4 +1,6 @@
-## Hi there 👋
+## Denizen Govnokoder 🔥
+
+https://raw.githubusercontent.com/tizis0/tizis0/output/dist/github-contribution-grid-snake-dark.svg
 
 <!--
 **tizis0/tizis0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
