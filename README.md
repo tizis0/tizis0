@@ -1,4 +1,4 @@
-## Denizen Govnokoder 🔥
+I have nothing to write here, I'm not a fan of creating READMEs, so... Just look at my projects.
 
 <img src="https://raw.githubusercontent.com/tizis0/tizis0/output/github-contribution-grid-snake-dark.svg" >
 
